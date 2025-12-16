@@ -5,7 +5,7 @@
 🎓 **B.Tech in Computer Science and Engineering | Class of 2023**  
 💻 **MERN Stack Developer | Passionate about React | Python Enthusiast**
 
-## 🌐  [Portfolio](https://jagansportfolio.netlify.app/) 🌐
+## 🌐  [Portfolio](https://sriharijagan.vercel.app/) 🌐
 
 </div>
 
