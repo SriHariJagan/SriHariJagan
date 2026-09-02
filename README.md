@@ -5,24 +5,24 @@
 <br/>
 
 <a href="https://sriharijagan.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%40+TTL+Engineering;5%2B+production+apps+%C2%B7+45%2B+REST+APIs+shipped;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Python;Healthcare+%C2%B7+Fintech+%C2%B7+SaaS+platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%40+TTL+Engineering;5%2B+production+apps+%C2%B7+45%2B+REST+APIs+shipped;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+Python;Healthcare+%C2%B7+Fintech+%C2%B7+SaaS+platforms" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://sriharijagan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=64FFDA" /></a>
-<a href="https://github.com/SriHariJagan" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=64FFDA" /></a>
-<a href="https://www.linkedin.com/in/sri-hari-jagan-mushini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /></a>
-<a href="mailto:sriharijagan04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=64FFDA" /></a>
+<a href="https://sriharijagan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=F472B6" /></a>
+<a href="https://github.com/SriHariJagan" target="_blank"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<a href="https://www.linkedin.com/in/sri-hari-jagan-mushini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:sriharijagan04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=FBBF24" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SriHariJagan&color=64FFDA&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/SriHariJagan?style=flat-square&color=64FFDA&labelColor=0B1220" />
+<img src="https://komarev.com/ghpvc/?username=SriHariJagan&color=A78BFA&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/SriHariJagan?style=flat-square&color=F472B6&labelColor=0F0C29" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 👨‍💻 About me
 
@@ -48,7 +48,7 @@ focus:      Auth & RBAC · payments integration · deployment infra
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1220&title_color=64FFDA&text_color=E6EDF3&icon_color=64FFDA&border_radius=12" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&icon_color=A78BFA&border_radius=12" width="100%" />
 
 </td>
 </tr>
@@ -60,29 +60,29 @@ focus:      Auth & RBAC · payments integration · deployment infra
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,framer,vite,redux,materialui,antdesign" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,redux,materialui" /><br/>
 <sub><b>Frontend</b></sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django,prisma" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,django,prisma" /><br/>
 <sub><b>Backend</b></sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" /><br/>
 <sub><b>Databases &amp; ORM</b></sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify,render,git,github,vscode,postman" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,vercel,netlify,git,github,githubactions,vscode,postman" /><br/>
 <sub><b>DevOps, cloud &amp; tools</b></sub>
 
 </div>
 
 <div align="center">
 
-`JWT` · `RBAC` · `OAuth2` · `Razorpay` · `M-Pesa` · `Swagger` · `Zod` · `TanStack Query` · `i18next`
+`JWT` · `RBAC` · `OAuth2` · `Razorpay` · `M-Pesa` · `Swagger` · `Zod` · `TanStack Query` · `i18next` · `Framer Motion`
 
 </div>
 
@@ -122,73 +122,61 @@ Mentored 150+ learners in modern frontend development through structured, projec
 ## 🚀 Flagship projects
 
 <table>
-<tr>
-<td width="55%" valign="top">
+<tr><td>
 
-### 🌐 MetaDev — global digital platform
+<img src="https://img.shields.io/badge/🌐_MetaDev-Global_Digital_Platform-A78BFA?style=for-the-badge&labelColor=0F0C29" />
+
 Marketing site + central backend API for MetaDev's ecosystem across web, mobile, AI and enterprise. Backend manages auth, users, orgs, modules, plans, subscriptions, jobs and audit across 9 services.
+
 - **Frontend:** React 19, TypeScript, Vite, Tailwind, MUI, Ant Design, Framer Motion — full SEO (canonical/OG/JSON-LD), GA4 tracking, light/dark theming
 - **Backend:** Node.js 20, Express 5, TypeScript strict, Prisma 7, PostgreSQL — Zod validation, JWT access/refresh (Argon2id), Swagger docs, Pino logging
 - Docker/CI pipeline with tsc, Prisma generate, Vitest/Supertest
 
 <sub>`React 19` `TypeScript` `Prisma` `PostgreSQL` `JWT` `Docker`</sub> · [Live ↗](https://metadev.in)
 
-</td>
-<td width="45%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/SriHariJagan/SriHariJagan/main/assets/metaDev.jpg" width="100%" />
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td width="55%" valign="top">
+<tr><td>
 
-### 🧘 Pragya Yoga — alliance platform
+<img src="https://img.shields.io/badge/🧘_Pragya_Yoga-Alliance_Platform-F472B6?style=for-the-badge&labelColor=0F0C29" />
+
 Flagship yoga education site with full Razorpay Standard Checkout and a 30+ component admin suite.
+
 - React 19, Vite, TanStack Query, Framer Motion, lazy-loaded routes with `AnimatePresence`
 - End-to-end Razorpay flow: dynamic script injection, order creation, payment verification
 - Full booking + e-commerce: cart, bulk orders, order tracking (payable and enquiry-only paths)
 
 <sub>`React 19` `TanStack Query` `Razorpay` `Docker`</sub>
 
-</td>
-<td width="45%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/SriHariJagan/SriHariJagan/main/assets/pragya.jpg" width="100%" />
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td width="55%" valign="top">
+<tr><td>
 
-### 🌿 Soma Wellness — internationalized wellness platform
+<img src="https://img.shields.io/badge/🌿_Soma_Wellness-Internationalized_Platform-FBBF24?style=for-the-badge&labelColor=0F0C29" />
+
 Wellness platform with full M-Pesa STK-push checkout and bilingual support (EN/SW).
+
 - React 19, Vite, TanStack Query, `i18next` + browser language detection, Framer Motion
 - M-Pesa STK push flow: `checkoutRequestId` / `mpesaReceiptNumber` handling, booking persistence
 - Production-grade testing: Vitest + coverage, Playwright e2e, MSW mocks, axe-core accessibility checks
 
 <sub>`React 19` `i18next` `M-Pesa` `Playwright`</sub>
 
-</td>
-<td width="45%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/SriHariJagan/SriHariJagan/main/assets/somawell.jpg" width="100%" />
-</td>
-</tr>
+</td></tr>
 
-<tr>
-<td width="55%" valign="top">
+<tr><td>
 
-### 🏗️ GeoTech project management system
+<img src="https://img.shields.io/badge/🏗️_GeoTech-Project_Management_System-A78BFA?style=for-the-badge&labelColor=0F0C29" />
+
 Role-based geotechnical field workflow platform with a modular FastAPI backend.
+
 - Routers → services → schemas separation, SQLAlchemy ORM, normalized MySQL schema
 - Role-scoped dashboards for Super Admin and Supervisors with distinct permissions and views
 - JWT auth protecting project data per user tier
 
 <sub>`React` `FastAPI` `MySQL` `SQLAlchemy`</sub> · [Repo ↗](https://github.com/SriHariJagan/GeoTech-Backend)
 
-</td>
-<td width="45%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/SriHariJagan/SriHariJagan/main/assets/geotech.png" width="100%" />
-</td>
-</tr>
+</td></tr>
 </table>
 
 <details>
@@ -237,16 +225,16 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=transparent&hide_border=true&bg_color=0B1220&title_color=64FFDA&text_color=E6EDF3&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHariJagan&theme=transparent&hide_border=true&background=0B1220&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=transparent&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHariJagan&theme=transparent&hide_border=true&background=0F0C29&stroke=A78BFA&ring=F472B6&fire=FBBF24&currStreakLabel=F472B6&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border_radius=12" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SriHariJagan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SriHariJagan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriHariJagan&theme=react-dark&hide_border=true&bg_color=0B1220&color=64FFDA&line=64FFDA&point=E6EDF3" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriHariJagan&theme=react-dark&hide_border=true&bg_color=0F0C29&color=F472B6&line=A78BFA&point=FBBF24" width="100%" />
 </p>
 
 <p align="center">
@@ -278,7 +266,7 @@ jobs:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
 ## 🤝 Let's connect
 
@@ -286,14 +274,14 @@ jobs:
 
 **Open to full-time engineering roles and interesting product work** — especially teams shipping real-world web applications.
 
-<a href="mailto:sriharijagan04@gmail.com"><img src="https://img.shields.io/badge/Email_me-64FFDA?style=for-the-badge&logo=gmail&logoColor=0B1220" /></a>
-<a href="https://www.linkedin.com/in/sri-hari-jagan-mushini"><img src="https://img.shields.io/badge/Message_on_LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0B1220" /></a>
-<a href="https://sriharijagan.vercel.app/"><img src="https://img.shields.io/badge/View_portfolio-64FFDA?style=for-the-badge&logo=vercel&logoColor=0B1220" /></a>
+<a href="mailto:sriharijagan04@gmail.com"><img src="https://img.shields.io/badge/Email_me-A78BFA?style=for-the-badge&logoColor=0F0C29&labelColor=0F0C29" /></a>
+<a href="https://www.linkedin.com/in/sri-hari-jagan-mushini"><img src="https://img.shields.io/badge/Message_on_LinkedIn-F472B6?style=for-the-badge&logoColor=0F0C29&labelColor=0F0C29" /></a>
+<a href="https://sriharijagan.vercel.app/"><img src="https://img.shields.io/badge/View_portfolio-FBBF24?style=for-the-badge&logoColor=0F0C29&labelColor=0F0C29" /></a>
 
 <sub>Typical response time within 24 hours · Mon–Sat · IST (UTC+5:30)</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:24243e,100:302B63&height=100&section=footer" width="100%" />
 
 <p align="center"><sub>Built by <a href="https://github.com/SriHariJagan">Sri Hari Jagan Mushini</a></sub></p>
