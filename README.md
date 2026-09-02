@@ -33,11 +33,11 @@
 **Full-stack developer with 2+ years shipping production software** — from requirement gathering through API design, UI, deployment, and live maintenance. Currently at **TTL Engineering**, delivering applications across healthcare, fintech, and business automation.
 
 ```yaml
-current: Full Stack Developer @ TTL Engineering
-shipped: 5+ production apps · 45+ REST APIs · 100+ React components
-stack: React · Node.js/Express · FastAPI · Python
-databases: MongoDB · MySQL · PostgreSQL
-focus: Auth & RBAC · payments integration · deployment infra
+current:    Full Stack Developer @ TTL Engineering
+shipped:    5+ production apps · 45+ REST APIs · 100+ React components
+stack:      React · Node.js/Express · FastAPI · Python
+databases:  MongoDB · MySQL · PostgreSQL
+focus:      Auth & RBAC · payments integration · deployment infra
 ```
 
 - 🏥 Built core modules for a multi-role **Hospital Management platform** (Doctor, Pharmacy, Lab, Blood Bank, Ambulance, Admin)
@@ -183,11 +183,11 @@ Role-based geotechnical field workflow platform with a modular FastAPI backend.
 <summary><b>🏢 Production business websites</b> — click to expand</summary>
 <br/>
 
-| Project                                                           | Description                                                                                                     | Stack                         |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **[Eccellenza Infra](https://eccellenzainfra.com)** 🏢            | Commercial interior design site — animated sections, category-filtered project gallery, contact-form automation | `React` `Framer Motion` `SEO` |
-| **[Maanjo Farm](https://github.com/SriHariJagan/MaanjuFarms)** 🌾 | Agro e-commerce + villa booking with real-time inventory updates                                                | `React` `Node.js` `MongoDB`   |
-| **[JK Grani Marmo](https://jkgranimarmo.in)** 🏭                  | Multi-category product showcase with automated lead capture via Django SMTP                                     | `React` `Vite` `Django`       |
+| Project | Description | Stack |
+|---|---|---|
+| **[Eccellenza Infra](https://eccellenzainfra.com)** 🏢 | Commercial interior design site — animated sections, category-filtered project gallery, contact-form automation | `React` `Framer Motion` `SEO` |
+| **[Maanjo Farm](https://github.com/SriHariJagan/MaanjuFarms)** 🌾 | Agro e-commerce + villa booking with real-time inventory updates | `React` `Node.js` `MongoDB` |
+| **[JK Grani Marmo](https://jkgranimarmo.in)** 🏭 | Multi-category product showcase with automated lead capture via Django SMTP | `React` `Vite` `Django` |
 
 </details>
 
@@ -195,13 +195,13 @@ Role-based geotechnical field workflow platform with a modular FastAPI backend.
 <summary><b>🧩 MetaDev product ecosystem</b> — 5 linked platforms, one design system</summary>
 <br/>
 
-| Product        | Description                                | Live                                   |
-| -------------- | ------------------------------------------ | -------------------------------------- |
-| **MetaHire**   | 8-step hiring workflow (create job → hire) | [metahire.in](https://metahire.in)     |
-| **MetaPe**     | Payments workflows platform                | [metape.in](https://metape.in)         |
-| **MetaCheck**  | Verification & compliance workflows        | [metacheck.in](https://metacheck.in)   |
-| **MetaAds**    | Campaign & ads management                  | [metaads.in](https://metaads.in)       |
-| **MetaLedger** | Financial operations (12 sections)         | [metaledger.in](https://metaledger.in) |
+| Product | Description | Live |
+|---|---|---|
+| **MetaHire** | 8-step hiring workflow (create job → hire) | [metahire.in](https://metahire.in) |
+| **MetaPe** | Payments workflows platform | [metape.in](https://metape.in) |
+| **MetaCheck** | Verification & compliance workflows | [metacheck.in](https://metacheck.in) |
+| **MetaAds** | Campaign & ads management | [metaads.in](https://metaads.in) |
+| **MetaLedger** | Financial operations (12 sections) | [metaledger.in](https://metaledger.in) |
 
 All five share the MetaDev design system, SEO module, analytics, theming and cross-product navigation.
 
@@ -211,12 +211,12 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
 <summary><b>🧪 More projects</b> — URL shortener, payment UI, e-commerce</summary>
 <br/>
 
-| Project                                                                     | Description                                                                      | Stack                            |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------- |
-| **[TinyLink](https://tinylk.netlify.app/)** 🔗                              | URL shortener with link analytics and a `/healthz` monitoring endpoint           | `React` `Express` `MongoDB`      |
+| Project | Description | Stack |
+|---|---|---|
+| **[TinyLink](https://tinylk.netlify.app/)** 🔗 | URL shortener with link analytics and a `/healthz` monitoring endpoint | `React` `Express` `MongoDB` |
 | **[Payment Gateway UI](https://payment-gateway-assignment.vercel.app/)** 💳 | Real-time card detection, auto-formatting, multi-currency, Zustand state machine | `Next.js` `TypeScript` `Zustand` |
-| **[BuyBusy](https://buybusy-onlineshopping.netlify.app/)** 🛒               | E-commerce with Firebase Auth, Firestore CRUD, Context API                       | `React` `Firebase`               |
-| **[Civil-AI](https://github.com/SriHariJagan/newCivil-AI.git)** 🤖          | AI-powered construction management frontend with chatbot                         | `React` `Django REST`            |
+| **[BuyBusy](https://buybusy-onlineshopping.netlify.app/)** 🛒 | E-commerce with Firebase Auth, Firestore CRUD, Context API | `React` `Firebase` |
+| **[Civil-AI](https://github.com/SriHariJagan/newCivil-AI.git)** 🤖 | AI-powered construction management frontend with chatbot | `React` `Django REST` |
 
 </details>
 
@@ -228,31 +228,6 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=transparent&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="48%" />
 </p>
 
-<summary><b>⚙️ Snake animation workflow</b> — one-time setup for the grid above</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions: { contents: write }
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SriHariJagan
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with: { target_branch: output, build_dir: dist }
-        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
-```
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/> -->
 
 ## 🤝 Let's connect
 
