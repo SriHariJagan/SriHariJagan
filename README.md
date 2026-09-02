@@ -48,7 +48,7 @@ focus: Auth & RBAC · payments integration · deployment infra
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&icon_color=A78BFA&border_radius=12" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&icon_color=A78BFA&border_radius=12" width="100%" />
 
 </td>
 </tr>
@@ -225,23 +225,9 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHariJagan&hide_border=true&background=0F0C29&stroke=A78BFA&ring=F472B6&fire=FBBF24&currStreakLabel=F472B6&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=transparent&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SriHariJagan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriHariJagan&theme=react-dark&hide_border=true&bg_color=0F0C29&color=F472B6&line=A78BFA&point=FBBF24" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SriHariJagan/SriHariJagan/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<details>
 <summary><b>⚙️ Snake animation workflow</b> — one-time setup for the grid above</summary>
 
 ```yaml
@@ -266,7 +252,7 @@ jobs:
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/> -->
 
 ## 🤝 Let's connect
 
