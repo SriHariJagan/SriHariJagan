@@ -225,8 +225,8 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&icon_color=A78BFA&border_radius=12" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="40%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SriHariJagan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&icon_color=A78BFA&border_radius=12" width="49%" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriHariJagan&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=F472B6&text_color=E6EDF3&border_radius=12" width="40%" /> -->
 
 <br/>
 
