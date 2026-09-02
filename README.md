@@ -229,7 +229,7 @@ All five share the MetaDev design system, SEO module, analytics, theming and cro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHariJagan&theme=transparent&hide_border=true&background=0F0C29&stroke=A78BFA&ring=F472B6&fire=FBBF24&currStreakLabel=F472B6&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border_radius=12" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SriHariJagan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" />
 </p>
 
@@ -266,7 +266,7 @@ jobs:
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/> -->
 
 ## 🤝 Let's connect
 
